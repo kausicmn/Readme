@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi everyone, I'm Kausic and welcome to my github. <br>I am an aspiring Software Engineer with an academic background in Web development, Machine learning and Cloud Computing.<br>I am currently looking for Full time SDE/Co-op opportunities starting from May 2023. 
+Hi everyone, I'm Kausic and welcome to my github. <br>I am an aspiring Software Engineer with an academic background in Cloud Computing, Machine learning and Web development.<br>I am currently looking for Full time SDE/Co-op opportunities starting from May 2023. 
 
 
 ## 🌐 Socials:
